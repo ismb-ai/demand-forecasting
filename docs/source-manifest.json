@@ -1,0 +1,1598 @@
+[
+  {
+    "path": "projects/Forecasting_v1/ARIMA/ARIMA.py",
+    "original_sha256": "7b20506243164ea58f29049027c4c466639c57e4bbddd5f9570c932723b69a92",
+    "prepared_sha256": "7b20506243164ea58f29049027c4c466639c57e4bbddd5f9570c932723b69a92",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/ARIMA/ARIMA.py",
+        "review_path": "projects/Forecasting_v1/ARIMA/ARIMA.py",
+        "sha256": "7b20506243164ea58f29049027c4c466639c57e4bbddd5f9570c932723b69a92",
+        "bytes": 2211
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/ARIMA/ARIMA_sliding_window.py",
+    "original_sha256": "ee1da9fc5700a1b3a9dba01dd98acac155479cea080b2ee49f8250e7f8b66021",
+    "prepared_sha256": "ee1da9fc5700a1b3a9dba01dd98acac155479cea080b2ee49f8250e7f8b66021",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/ARIMA/ARIMA_sliding_window.py",
+        "review_path": "projects/Forecasting_v1/ARIMA/ARIMA_sliding_window.py",
+        "sha256": "ee1da9fc5700a1b3a9dba01dd98acac155479cea080b2ee49f8250e7f8b66021",
+        "bytes": 3411
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/ARIMA/README.rtf",
+    "original_sha256": "0f8c1135ebb5770c0e56390a65a0c6ec6f0feea41f7051e5924a4a748b8f1cc0",
+    "prepared_sha256": "0f8c1135ebb5770c0e56390a65a0c6ec6f0feea41f7051e5924a4a748b8f1cc0",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/ARIMA/README.rtf",
+        "review_path": "projects/Forecasting_v1/ARIMA/README.rtf",
+        "sha256": "0f8c1135ebb5770c0e56390a65a0c6ec6f0feea41f7051e5924a4a748b8f1cc0",
+        "bytes": 1757
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/bollinger.py",
+    "original_sha256": "afe051014dfd4e4ffbaed5156b44ceb0b42c90588cebd2a49e992c4ee9c9de99",
+    "prepared_sha256": "afe051014dfd4e4ffbaed5156b44ceb0b42c90588cebd2a49e992c4ee9c9de99",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/bollinger.py",
+        "review_path": "projects/Forecasting_v1/bollinger.py",
+        "sha256": "afe051014dfd4e4ffbaed5156b44ceb0b42c90588cebd2a49e992c4ee9c9de99",
+        "bytes": 1962
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/init.py",
+    "original_sha256": "9f6527b6e46a406d300bdbeab0c335de8f090f045ca73d6185b4181324c7eb4e",
+    "prepared_sha256": "489f2fc998281661d391a88611862b0272ec92c7432e8ec875871d0b4806e3df",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/init.py",
+        "review_path": "projects/Forecasting_v1/init.py",
+        "sha256": "9f6527b6e46a406d300bdbeab0c335de8f090f045ca73d6185b4181324c7eb4e",
+        "bytes": 1630
+      }
+    ],
+    "changes": [
+      "Commented the Jupyter-only magic and used the existing data variable in the two feature/target assignments."
+    ]
+  },
+  {
+    "path": "projects/Forecasting_v1/linear_machine/README.rtf",
+    "original_sha256": "3b0671ec8cf0c07152e84cfc31390e250a7ce3a208bda1660f7bc7fc46d7b1da",
+    "prepared_sha256": "3b0671ec8cf0c07152e84cfc31390e250a7ce3a208bda1660f7bc7fc46d7b1da",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/linear_machine/README.rtf",
+        "review_path": "projects/Forecasting_v1/linear_machine/README.rtf",
+        "sha256": "3b0671ec8cf0c07152e84cfc31390e250a7ce3a208bda1660f7bc7fc46d7b1da",
+        "bytes": 4284
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/linear_machine/optimal_horizon.py",
+    "original_sha256": "447c75750666783587a499c21f9409689088db2d12cfe2a1c8fde65978e5f509",
+    "prepared_sha256": "447c75750666783587a499c21f9409689088db2d12cfe2a1c8fde65978e5f509",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/linear_machine/optimal_horizon.py",
+        "review_path": "projects/Forecasting_v1/linear_machine/optimal_horizon.py",
+        "sha256": "447c75750666783587a499c21f9409689088db2d12cfe2a1c8fde65978e5f509",
+        "bytes": 3762
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/linear_machine/optimal_unit_of_time.py",
+    "original_sha256": "a8a2c92aa21a36a1d33435020071c5e55c25316d07a7f482d8fdef648045120a",
+    "prepared_sha256": "a8a2c92aa21a36a1d33435020071c5e55c25316d07a7f482d8fdef648045120a",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/linear_machine/optimal_unit_of_time.py",
+        "review_path": "projects/Forecasting_v1/linear_machine/optimal_unit_of_time.py",
+        "sha256": "a8a2c92aa21a36a1d33435020071c5e55c25316d07a7f482d8fdef648045120a",
+        "bytes": 2914
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/linear_machine/out_of_sample_optimal_horizon.py",
+    "original_sha256": "17b64614ff6210c41a7d5f8c75abc4748303c8790521a19108d019158973a1a0",
+    "prepared_sha256": "17b64614ff6210c41a7d5f8c75abc4748303c8790521a19108d019158973a1a0",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/linear_machine/out_of_sample_optimal_horizon.py",
+        "review_path": "projects/Forecasting_v1/linear_machine/out_of_sample_optimal_horizon.py",
+        "sha256": "17b64614ff6210c41a7d5f8c75abc4748303c8790521a19108d019158973a1a0",
+        "bytes": 4964
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/linear_machine/out_of_sample_unit_of_time.py",
+    "original_sha256": "4020cd0bd4663e470c7f15c2cd6aeeb7b0d134ec48b95939b8d24e32ee538afe",
+    "prepared_sha256": "4020cd0bd4663e470c7f15c2cd6aeeb7b0d134ec48b95939b8d24e32ee538afe",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/linear_machine/out_of_sample_unit_of_time.py",
+        "review_path": "projects/Forecasting_v1/linear_machine/out_of_sample_unit_of_time.py",
+        "sha256": "4020cd0bd4663e470c7f15c2cd6aeeb7b0d134ec48b95939b8d24e32ee538afe",
+        "bytes": 4431
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/linear_machine/random_forest.py",
+    "original_sha256": "f9f554aa005089bfb5fb70985772e9308a4602803ba596caa10f0b8c7ff55901",
+    "prepared_sha256": "f9f554aa005089bfb5fb70985772e9308a4602803ba596caa10f0b8c7ff55901",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/linear_machine/random_forest.py",
+        "review_path": "projects/Forecasting_v1/linear_machine/random_forest.py",
+        "sha256": "f9f554aa005089bfb5fb70985772e9308a4602803ba596caa10f0b8c7ff55901",
+        "bytes": 3705
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/linear_machine/sliding_window_v2.py",
+    "original_sha256": "2281748e8c2cb7257e655321edadf035d11d3e970fbd45a857428b2aa25c6e27",
+    "prepared_sha256": "2281748e8c2cb7257e655321edadf035d11d3e970fbd45a857428b2aa25c6e27",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/linear_machine/sliding_window_v2.py",
+        "review_path": "projects/Forecasting_v1/linear_machine/sliding_window_v2.py",
+        "sha256": "2281748e8c2cb7257e655321edadf035d11d3e970fbd45a857428b2aa25c6e27",
+        "bytes": 4142
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/ARIMA.py",
+    "original_sha256": "7b20506243164ea58f29049027c4c466639c57e4bbddd5f9570c932723b69a92",
+    "prepared_sha256": "7b20506243164ea58f29049027c4c466639c57e4bbddd5f9570c932723b69a92",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/ARIMA.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/ARIMA.py",
+        "sha256": "7b20506243164ea58f29049027c4c466639c57e4bbddd5f9570c932723b69a92",
+        "bytes": 2211
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/ARIMA_RNN.py",
+    "original_sha256": "beb8e2dbdf37b8d6d1f70b65606414a289933856e0c9fabd0977669d7af240d3",
+    "prepared_sha256": "beb8e2dbdf37b8d6d1f70b65606414a289933856e0c9fabd0977669d7af240d3",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/ARIMA_RNN.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/ARIMA_RNN.py",
+        "sha256": "beb8e2dbdf37b8d6d1f70b65606414a289933856e0c9fabd0977669d7af240d3",
+        "bytes": 4394
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/ARIMA_sliding_window.py",
+    "original_sha256": "ee1da9fc5700a1b3a9dba01dd98acac155479cea080b2ee49f8250e7f8b66021",
+    "prepared_sha256": "ee1da9fc5700a1b3a9dba01dd98acac155479cea080b2ee49f8250e7f8b66021",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/ARIMA_sliding_window.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/ARIMA_sliding_window.py",
+        "sha256": "ee1da9fc5700a1b3a9dba01dd98acac155479cea080b2ee49f8250e7f8b66021",
+        "bytes": 3411
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Anomaly_CNN.py",
+    "original_sha256": "9be3f04adc661ee8be3bfe85a5680515aade7d1a0308c261b4993dfe2e7b7fae",
+    "prepared_sha256": "9be3f04adc661ee8be3bfe85a5680515aade7d1a0308c261b4993dfe2e7b7fae",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Anomaly_CNN.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Anomaly_CNN.py",
+        "sha256": "9be3f04adc661ee8be3bfe85a5680515aade7d1a0308c261b4993dfe2e7b7fae",
+        "bytes": 2896
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_CNN.py",
+    "original_sha256": "11952b951dee546dd336b054368950b38402e88032e7420d63e928e135bcd767",
+    "prepared_sha256": "11952b951dee546dd336b054368950b38402e88032e7420d63e928e135bcd767",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Anomaly_Detection_CNN.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_CNN.py",
+        "sha256": "11952b951dee546dd336b054368950b38402e88032e7420d63e928e135bcd767",
+        "bytes": 6877
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_Exponential_Smoothing_RNN.py",
+    "original_sha256": "3ba4f5d2fd15a5a0a89eb1469d1cd447eb634e77845fca511e4346f544b94197",
+    "prepared_sha256": "3ba4f5d2fd15a5a0a89eb1469d1cd447eb634e77845fca511e4346f544b94197",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Anomaly_Detection_Exponential_Smoothing_RNN.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_Exponential_Smoothing_RNN.py",
+        "sha256": "3ba4f5d2fd15a5a0a89eb1469d1cd447eb634e77845fca511e4346f544b94197",
+        "bytes": 10236
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_Hybrid_ARIMA_CNN.py",
+    "original_sha256": "29a94b9a70cfca442cdc97ea970c7ea8098dad782dff93eed2f9d814c51acdde",
+    "prepared_sha256": "29a94b9a70cfca442cdc97ea970c7ea8098dad782dff93eed2f9d814c51acdde",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Anomaly_Detection_Hybrid_ARIMA_CNN.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_Hybrid_ARIMA_CNN.py",
+        "sha256": "29a94b9a70cfca442cdc97ea970c7ea8098dad782dff93eed2f9d814c51acdde",
+        "bytes": 7135
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_Hybrid_ARIMA_RNN.py",
+    "original_sha256": "b20cc4380bfcc149a6334e84987826a1c26ea6dba5a32400ab0ebd32e89127c6",
+    "prepared_sha256": "b20cc4380bfcc149a6334e84987826a1c26ea6dba5a32400ab0ebd32e89127c6",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Anomaly_Detection_Hybrid_ARIMA_RNN.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_Hybrid_ARIMA_RNN.py",
+        "sha256": "b20cc4380bfcc149a6334e84987826a1c26ea6dba5a32400ab0ebd32e89127c6",
+        "bytes": 7163
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_Hybrid_Exponential_Smoothing_CNN.py",
+    "original_sha256": "4fe503cba95c79c13085bd7b114156b2aa1c3caf4168b778578ad58fc78ee1c9",
+    "prepared_sha256": "4fe503cba95c79c13085bd7b114156b2aa1c3caf4168b778578ad58fc78ee1c9",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Anomaly_Detection_Hybrid_Exponential_Smoothing_CNN.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_Hybrid_Exponential_Smoothing_CNN.py",
+        "sha256": "4fe503cba95c79c13085bd7b114156b2aa1c3caf4168b778578ad58fc78ee1c9",
+        "bytes": 4295
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_Hybrid_RNN_LSTM.py",
+    "original_sha256": "4d07cad3d002f62ca583aaa4dff91da84078fb0f412c0c4fed3a486bd5bf248f",
+    "prepared_sha256": "4d07cad3d002f62ca583aaa4dff91da84078fb0f412c0c4fed3a486bd5bf248f",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Anomaly_Detection_Hybrid_RNN_LSTM.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_Hybrid_RNN_LSTM.py",
+        "sha256": "4d07cad3d002f62ca583aaa4dff91da84078fb0f412c0c4fed3a486bd5bf248f",
+        "bytes": 5612
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_Moving_Average_RNN.py",
+    "original_sha256": "a4bcab957fc5c2b740dc649c15f2e74505bcd5b130b3e3f1b3e30cac2e5e394f",
+    "prepared_sha256": "a4bcab957fc5c2b740dc649c15f2e74505bcd5b130b3e3f1b3e30cac2e5e394f",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Anomaly_Detection_Moving_Average_RNN.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_Moving_Average_RNN.py",
+        "sha256": "a4bcab957fc5c2b740dc649c15f2e74505bcd5b130b3e3f1b3e30cac2e5e394f",
+        "bytes": 6741
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_RNN.py",
+    "original_sha256": "c5af03cf6475541af5e9908b6de373fa34c0c5c2f71b5e7af435263d706677e6",
+    "prepared_sha256": "c5af03cf6475541af5e9908b6de373fa34c0c5c2f71b5e7af435263d706677e6",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Anomaly_Detection_RNN.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Anomaly_Detection_RNN.py",
+        "sha256": "c5af03cf6475541af5e9908b6de373fa34c0c5c2f71b5e7af435263d706677e6",
+        "bytes": 6278
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Exponential_Smoothing_CNN.py",
+    "original_sha256": "7131ce97a9143638f08dd6a874c804ee1ec74f64f3a4be8e0d43b826043f7a6b",
+    "prepared_sha256": "7131ce97a9143638f08dd6a874c804ee1ec74f64f3a4be8e0d43b826043f7a6b",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Exponential_Smoothing_CNN.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Exponential_Smoothing_CNN.py",
+        "sha256": "7131ce97a9143638f08dd6a874c804ee1ec74f64f3a4be8e0d43b826043f7a6b",
+        "bytes": 2075
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Exponential_Smoothing_CNN_v2.py",
+    "original_sha256": "d44ac5aefebdf1f1042a089f4878bc21e6056f90a28ebbd1ef2ac280586fb323",
+    "prepared_sha256": "d44ac5aefebdf1f1042a089f4878bc21e6056f90a28ebbd1ef2ac280586fb323",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Exponential_Smoothing_CNN_v2.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Exponential_Smoothing_CNN_v2.py",
+        "sha256": "d44ac5aefebdf1f1042a089f4878bc21e6056f90a28ebbd1ef2ac280586fb323",
+        "bytes": 5326
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Exponential_Smoothing_RNN.py",
+    "original_sha256": "6485a33aabf1733ec0aaae93960fe0aab5d50b13ee6083c694ca8a621252ec6c",
+    "prepared_sha256": "6485a33aabf1733ec0aaae93960fe0aab5d50b13ee6083c694ca8a621252ec6c",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Exponential_Smoothing_RNN.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Exponential_Smoothing_RNN.py",
+        "sha256": "6485a33aabf1733ec0aaae93960fe0aab5d50b13ee6083c694ca8a621252ec6c",
+        "bytes": 1928
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Exponential_Smoothing_RNN_v2.py",
+    "original_sha256": "2db3a8abaffca6c6c2786558743ded1fa810aba338f80787fe69cb46823b2b73",
+    "prepared_sha256": "2db3a8abaffca6c6c2786558743ded1fa810aba338f80787fe69cb46823b2b73",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Exponential_Smoothing_RNN_v2.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Exponential_Smoothing_RNN_v2.py",
+        "sha256": "2db3a8abaffca6c6c2786558743ded1fa810aba338f80787fe69cb46823b2b73",
+        "bytes": 4524
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Hybrid_CNN_GRU.py",
+    "original_sha256": "8f67cd812b1c26b1894c779b1a1ecb323e6433a5b56cd6eeee724b4b78ddc566",
+    "prepared_sha256": "8f67cd812b1c26b1894c779b1a1ecb323e6433a5b56cd6eeee724b4b78ddc566",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Hybrid_CNN_GRU.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Hybrid_CNN_GRU.py",
+        "sha256": "8f67cd812b1c26b1894c779b1a1ecb323e6433a5b56cd6eeee724b4b78ddc566",
+        "bytes": 3520
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/LSTM.py",
+    "original_sha256": "310f0f290e9a9a69425e04d3a6bab1cdfd6ed11ca04dea108ff0b709326c7c65",
+    "prepared_sha256": "310f0f290e9a9a69425e04d3a6bab1cdfd6ed11ca04dea108ff0b709326c7c65",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/LSTM.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/LSTM.py",
+        "sha256": "310f0f290e9a9a69425e04d3a6bab1cdfd6ed11ca04dea108ff0b709326c7c65",
+        "bytes": 5001
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/README.rtf",
+    "original_sha256": "daaef7e1a3e18a962c075aa9bee4244d34bd91d101c5e4cbbcb9f314127d375d",
+    "prepared_sha256": "daaef7e1a3e18a962c075aa9bee4244d34bd91d101c5e4cbbcb9f314127d375d",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/README.rtf",
+        "review_path": "projects/Forecasting_v1/machine_learning/README.rtf",
+        "sha256": "daaef7e1a3e18a962c075aa9bee4244d34bd91d101c5e4cbbcb9f314127d375d",
+        "bytes": 2357
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/Transformer.py",
+    "original_sha256": "f843465ca176288fb5e633d14a43df6ea4ae8bc0f8721c2b251f4e5b7844e362",
+    "prepared_sha256": "f843465ca176288fb5e633d14a43df6ea4ae8bc0f8721c2b251f4e5b7844e362",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/Transformer.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/Transformer.py",
+        "sha256": "f843465ca176288fb5e633d14a43df6ea4ae8bc0f8721c2b251f4e5b7844e362",
+        "bytes": 5745
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/cnn.py",
+    "original_sha256": "5e873f4123b9736df418e0579db8a06149071a18e0d24425086a1f4c0c8b20ec",
+    "prepared_sha256": "5e873f4123b9736df418e0579db8a06149071a18e0d24425086a1f4c0c8b20ec",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/cnn.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/cnn.py",
+        "sha256": "5e873f4123b9736df418e0579db8a06149071a18e0d24425086a1f4c0c8b20ec",
+        "bytes": 3983
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/cnn_lstm.py",
+    "original_sha256": "6fb0419099b352041f22bace3f052d558cdc824e2e7e1d01ec342fa62968d2a3",
+    "prepared_sha256": "6fb0419099b352041f22bace3f052d558cdc824e2e7e1d01ec342fa62968d2a3",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/cnn_lstm.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/cnn_lstm.py",
+        "sha256": "6fb0419099b352041f22bace3f052d558cdc824e2e7e1d01ec342fa62968d2a3",
+        "bytes": 4681
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/cnn_rnn.py",
+    "original_sha256": "8f4663217ae123333858c38a83df489ef0b7d42323af908d26d59304dcb41377",
+    "prepared_sha256": "8f4663217ae123333858c38a83df489ef0b7d42323af908d26d59304dcb41377",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/cnn_rnn.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/cnn_rnn.py",
+        "sha256": "8f4663217ae123333858c38a83df489ef0b7d42323af908d26d59304dcb41377",
+        "bytes": 4721
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/recurrent_neural_networks.py",
+    "original_sha256": "4a01baa0a31781955b254a486eb95b311cefd901ef924774ae0ddae9a97582af",
+    "prepared_sha256": "4a01baa0a31781955b254a486eb95b311cefd901ef924774ae0ddae9a97582af",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/recurrent_neural_networks.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/recurrent_neural_networks.py",
+        "sha256": "4a01baa0a31781955b254a486eb95b311cefd901ef924774ae0ddae9a97582af",
+        "bytes": 4202
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/state_space.py",
+    "original_sha256": "8276884c2763dd56007859a64f5d10e2b58e36a3cfca493be4d0c8b6ec600118",
+    "prepared_sha256": "8276884c2763dd56007859a64f5d10e2b58e36a3cfca493be4d0c8b6ec600118",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/state_space.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/state_space.py",
+        "sha256": "8276884c2763dd56007859a64f5d10e2b58e36a3cfca493be4d0c8b6ec600118",
+        "bytes": 3020
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/takens.py",
+    "original_sha256": "205939dee1862fb51e0df47918408f3207d748f4e41ecae108af9dab1c64eae2",
+    "prepared_sha256": "205939dee1862fb51e0df47918408f3207d748f4e41ecae108af9dab1c64eae2",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/machine_learning/takens.py",
+        "review_path": "projects/Forecasting_v1/machine_learning/takens.py",
+        "sha256": "205939dee1862fb51e0df47918408f3207d748f4e41ecae108af9dab1c64eae2",
+        "bytes": 3236
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/optimal_horizon.py",
+    "original_sha256": "32a2865f033203eda95809e5e128ee427e49fe383ad343a0092b19e04aea6cfb",
+    "prepared_sha256": "32a2865f033203eda95809e5e128ee427e49fe383ad343a0092b19e04aea6cfb",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/optimal_horizon.py",
+        "review_path": "projects/Forecasting_v1/optimal_horizon.py",
+        "sha256": "32a2865f033203eda95809e5e128ee427e49fe383ad343a0092b19e04aea6cfb",
+        "bytes": 1328
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/optimal_unit_of_time.py",
+    "original_sha256": "1ee61b2f8e0fc974c18ae2581464463877387f4cc1ba2d405d6bb64bbcb52d81",
+    "prepared_sha256": "1ee61b2f8e0fc974c18ae2581464463877387f4cc1ba2d405d6bb64bbcb52d81",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/optimal_unit_of_time.py",
+        "review_path": "projects/Forecasting_v1/optimal_unit_of_time.py",
+        "sha256": "1ee61b2f8e0fc974c18ae2581464463877387f4cc1ba2d405d6bb64bbcb52d81",
+        "bytes": 2025
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/outliers-class/bollinger_v2.py",
+    "original_sha256": "cb828ab7a29b07bded78e3a9c5059c2dc3830e89d76d468beb41408c4c7a7695",
+    "prepared_sha256": "cb828ab7a29b07bded78e3a9c5059c2dc3830e89d76d468beb41408c4c7a7695",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/outliers-class/bollinger_v2.py",
+        "review_path": "projects/Forecasting_v1/outliers-class/bollinger_v2.py",
+        "sha256": "cb828ab7a29b07bded78e3a9c5059c2dc3830e89d76d468beb41408c4c7a7695",
+        "bytes": 4337
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/outliers-class/exponential_smoothing.py",
+    "original_sha256": "eb0017c2e1a991730997ad5159cf5ffa03219636e810a2631c19f9ba12457f34",
+    "prepared_sha256": "eb0017c2e1a991730997ad5159cf5ffa03219636e810a2631c19f9ba12457f34",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/outliers-class/exponential_smoothing.py",
+        "review_path": "projects/Forecasting_v1/outliers-class/exponential_smoothing.py",
+        "sha256": "eb0017c2e1a991730997ad5159cf5ffa03219636e810a2631c19f9ba12457f34",
+        "bytes": 3043
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/outliers-class/hotelling.py",
+    "original_sha256": "3018410780211db7368460933d456729a45a8179f400144271e28eb86323ca0d",
+    "prepared_sha256": "3018410780211db7368460933d456729a45a8179f400144271e28eb86323ca0d",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/outliers-class/hotelling.py",
+        "review_path": "projects/Forecasting_v1/outliers-class/hotelling.py",
+        "sha256": "3018410780211db7368460933d456729a45a8179f400144271e28eb86323ca0d",
+        "bytes": 3584
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/outliers-class/interquartile_range.py",
+    "original_sha256": "8656cf6793ebe226ecd5daff8c71f6af7bc201a2cd57e3199cbb38cfe09dc5be",
+    "prepared_sha256": "8656cf6793ebe226ecd5daff8c71f6af7bc201a2cd57e3199cbb38cfe09dc5be",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/outliers-class/interquartile_range.py",
+        "review_path": "projects/Forecasting_v1/outliers-class/interquartile_range.py",
+        "sha256": "8656cf6793ebe226ecd5daff8c71f6af7bc201a2cd57e3199cbb38cfe09dc5be",
+        "bytes": 2874
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/outliers-class/isolation_forest.py",
+    "original_sha256": "73233b2dacbc2499cc11aaa85e39638383e8d71112dda307a2dab4818454ab53",
+    "prepared_sha256": "73233b2dacbc2499cc11aaa85e39638383e8d71112dda307a2dab4818454ab53",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/outliers-class/isolation_forest.py",
+        "review_path": "projects/Forecasting_v1/outliers-class/isolation_forest.py",
+        "sha256": "73233b2dacbc2499cc11aaa85e39638383e8d71112dda307a2dab4818454ab53",
+        "bytes": 2856
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/outliers-class/moving_average.py",
+    "original_sha256": "1d81647dae73bc9d7453d99ec1eea4411c97f7e38cf090d8cff8c243cafb1729",
+    "prepared_sha256": "1d81647dae73bc9d7453d99ec1eea4411c97f7e38cf090d8cff8c243cafb1729",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/outliers-class/moving_average.py",
+        "review_path": "projects/Forecasting_v1/outliers-class/moving_average.py",
+        "sha256": "1d81647dae73bc9d7453d99ec1eea4411c97f7e38cf090d8cff8c243cafb1729",
+        "bytes": 3141
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/sliding_window.py",
+    "original_sha256": "a13462618701405315b1695683b56aaff79f5ffe4e185a7744f6cb11e726bad7",
+    "prepared_sha256": "a13462618701405315b1695683b56aaff79f5ffe4e185a7744f6cb11e726bad7",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/sliding_window.py",
+        "review_path": "projects/Forecasting_v1/sliding_window.py",
+        "sha256": "a13462618701405315b1695683b56aaff79f5ffe4e185a7744f6cb11e726bad7",
+        "bytes": 1202
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/Forecasting_v1/t_hotelling.py",
+    "original_sha256": "1ae6bb8485096a00dacf4b58f0a6fef994bbce9550a5ef5ae41b129248586610",
+    "prepared_sha256": "1ae6bb8485096a00dacf4b58f0a6fef994bbce9550a5ef5ae41b129248586610",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Forecasting_v1/t_hotelling.py",
+        "review_path": "projects/Forecasting_v1/t_hotelling.py",
+        "sha256": "1ae6bb8485096a00dacf4b58f0a6fef994bbce9550a5ef5ae41b129248586610",
+        "bytes": 3860
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/notebook-checkpoints/Untitled-checkpoint.ipynb",
+    "original_sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "prepared_sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/.ipynb_checkpoints/Untitled-checkpoint.ipynb",
+        "review_path": "projects/John/.ipynb_checkpoints/Untitled-checkpoint.ipynb",
+        "sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+        "bytes": 72
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (0 cells), execution counts, cell metadata and attachments (0 cells).",
+      "Moved notebook checkpoints into a visible notebook-checkpoints folder."
+    ]
+  },
+  {
+    "path": "projects/John/notebook-checkpoints/Untitled1-checkpoint.ipynb",
+    "original_sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "prepared_sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/.ipynb_checkpoints/Untitled1-checkpoint.ipynb",
+        "review_path": "projects/John/.ipynb_checkpoints/Untitled1-checkpoint.ipynb",
+        "sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+        "bytes": 72
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (0 cells), execution counts, cell metadata and attachments (0 cells).",
+      "Moved notebook checkpoints into a visible notebook-checkpoints folder."
+    ]
+  },
+  {
+    "path": "projects/John/notebook-checkpoints/Untitled2-checkpoint.ipynb",
+    "original_sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "prepared_sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/.ipynb_checkpoints/Untitled2-checkpoint.ipynb",
+        "review_path": "projects/John/.ipynb_checkpoints/Untitled2-checkpoint.ipynb",
+        "sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+        "bytes": 72
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (0 cells), execution counts, cell metadata and attachments (0 cells).",
+      "Moved notebook checkpoints into a visible notebook-checkpoints folder."
+    ]
+  },
+  {
+    "path": "projects/John/notebook-checkpoints/Untitled3-checkpoint.ipynb",
+    "original_sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "prepared_sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/.ipynb_checkpoints/Untitled3-checkpoint.ipynb",
+        "review_path": "projects/John/.ipynb_checkpoints/Untitled3-checkpoint.ipynb",
+        "sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+        "bytes": 72
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (0 cells), execution counts, cell metadata and attachments (0 cells).",
+      "Moved notebook checkpoints into a visible notebook-checkpoints folder."
+    ]
+  },
+  {
+    "path": "projects/John/notebook-checkpoints/notebook-checkpoint.ipynb",
+    "original_sha256": "064e4200cea1f772624f3f87849ab77d1a635cfaab74383e274b324d91fe76e7",
+    "prepared_sha256": "e46e535e8278fc8ac42665b24e9df80bfa6951e4c1ecabe50f6f66204016be0f",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/.ipynb_checkpoints/notebook-checkpoint.ipynb",
+        "review_path": "projects/John/.ipynb_checkpoints/notebook-checkpoint.ipynb",
+        "sha256": "064e4200cea1f772624f3f87849ab77d1a635cfaab74383e274b324d91fe76e7",
+        "bytes": 149307
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (3 cells), execution counts, cell metadata and attachments (0 cells).",
+      "Moved notebook checkpoints into a visible notebook-checkpoints folder."
+    ]
+  },
+  {
+    "path": "projects/John/John/src/anomaly.py",
+    "original_sha256": "dd018b8b6a53315aaff15aedcc372006e52a56277d7ac63fe9a8c2f6de6bd73a",
+    "prepared_sha256": "dd018b8b6a53315aaff15aedcc372006e52a56277d7ac63fe9a8c2f6de6bd73a",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/John/src/anomaly.py",
+        "review_path": "projects/John/John/src/anomaly.py",
+        "sha256": "dd018b8b6a53315aaff15aedcc372006e52a56277d7ac63fe9a8c2f6de6bd73a",
+        "bytes": 2560
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/John/src/main.py",
+    "original_sha256": "c5753be7a1191052318de04fa96e84173987ffe33410b7cfe22abad56103e294",
+    "prepared_sha256": "c5753be7a1191052318de04fa96e84173987ffe33410b7cfe22abad56103e294",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/John/src/main.py",
+        "review_path": "projects/John/John/src/main.py",
+        "sha256": "c5753be7a1191052318de04fa96e84173987ffe33410b7cfe22abad56103e294",
+        "bytes": 6433
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/John/src/sea.py",
+    "original_sha256": "950e86efcd05f356e3977c39b5b5d3d8df17c62e03ae96fae9d019538c318b03",
+    "prepared_sha256": "950e86efcd05f356e3977c39b5b5d3d8df17c62e03ae96fae9d019538c318b03",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/John/src/sea.py",
+        "review_path": "projects/John/John/src/sea.py",
+        "sha256": "950e86efcd05f356e3977c39b5b5d3d8df17c62e03ae96fae9d019538c318b03",
+        "bytes": 4239
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/John 2/src/anomaly.py",
+    "original_sha256": "dd018b8b6a53315aaff15aedcc372006e52a56277d7ac63fe9a8c2f6de6bd73a",
+    "prepared_sha256": "dd018b8b6a53315aaff15aedcc372006e52a56277d7ac63fe9a8c2f6de6bd73a",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/John 2/src/anomaly.py",
+        "review_path": "projects/John/John 2/src/anomaly.py",
+        "sha256": "dd018b8b6a53315aaff15aedcc372006e52a56277d7ac63fe9a8c2f6de6bd73a",
+        "bytes": 2560
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/John 2/src/main.py",
+    "original_sha256": "c5753be7a1191052318de04fa96e84173987ffe33410b7cfe22abad56103e294",
+    "prepared_sha256": "c5753be7a1191052318de04fa96e84173987ffe33410b7cfe22abad56103e294",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/John 2/src/main.py",
+        "review_path": "projects/John/John 2/src/main.py",
+        "sha256": "c5753be7a1191052318de04fa96e84173987ffe33410b7cfe22abad56103e294",
+        "bytes": 6433
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/John 2/src/sea.py",
+    "original_sha256": "950e86efcd05f356e3977c39b5b5d3d8df17c62e03ae96fae9d019538c318b03",
+    "prepared_sha256": "950e86efcd05f356e3977c39b5b5d3d8df17c62e03ae96fae9d019538c318b03",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/John 2/src/sea.py",
+        "review_path": "projects/John/John 2/src/sea.py",
+        "sha256": "950e86efcd05f356e3977c39b5b5d3d8df17c62e03ae96fae9d019538c318b03",
+        "bytes": 4239
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/LSTM-random.py",
+    "original_sha256": "9d0c7b865929d992511aee9ff1f867840a438d0e2bc068935b21fd11f471efec",
+    "prepared_sha256": "9d0c7b865929d992511aee9ff1f867840a438d0e2bc068935b21fd11f471efec",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/LSTM-random.py",
+        "review_path": "projects/John/LSTM-random.py",
+        "sha256": "9d0c7b865929d992511aee9ff1f867840a438d0e2bc068935b21fd11f471efec",
+        "bytes": 6300
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/LSTM.py",
+    "original_sha256": "04cdbc89453d3b1908aa164474dd9f7c3fd46fd62e9e3139b318d97f00bdaaef",
+    "prepared_sha256": "04cdbc89453d3b1908aa164474dd9f7c3fd46fd62e9e3139b318d97f00bdaaef",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/LSTM.py",
+        "review_path": "projects/John/LSTM.py",
+        "sha256": "04cdbc89453d3b1908aa164474dd9f7c3fd46fd62e9e3139b318d97f00bdaaef",
+        "bytes": 6923
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/SVM.py",
+    "original_sha256": "9cf63ae1df4d6ae149ff91bdf7fb852f1deb151695f0eca3fb7b8db5abacceaf",
+    "prepared_sha256": "9cf63ae1df4d6ae149ff91bdf7fb852f1deb151695f0eca3fb7b8db5abacceaf",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/SVM.py",
+        "review_path": "projects/John/SVM.py",
+        "sha256": "9cf63ae1df4d6ae149ff91bdf7fb852f1deb151695f0eca3fb7b8db5abacceaf",
+        "bytes": 8904
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/Untitled.ipynb",
+    "original_sha256": "65d6c65c1833e034538ce4ed0cab213eb8d2907f38bbee64eb8aee29c74914ed",
+    "prepared_sha256": "80f4d4fd8f1be6d536fb7c514c414e18e1c04857fc9bcc7501068c44695be72f",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/Untitled.ipynb",
+        "review_path": "projects/John/Untitled.ipynb",
+        "sha256": "65d6c65c1833e034538ce4ed0cab213eb8d2907f38bbee64eb8aee29c74914ed",
+        "bytes": 708496
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (32 cells), execution counts, cell metadata and attachments (0 cells)."
+    ]
+  },
+  {
+    "path": "projects/John/Untitled1.ipynb",
+    "original_sha256": "0ded635994dc13f01799ba9514a08838835800d47c90e59f6c03cca684aba0a8",
+    "prepared_sha256": "c853cb9e10eb828d57097ade1dffaeed8a8c4922ed217cb071d74fedc58c8ee2",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/Untitled1.ipynb",
+        "review_path": "projects/John/Untitled1.ipynb",
+        "sha256": "0ded635994dc13f01799ba9514a08838835800d47c90e59f6c03cca684aba0a8",
+        "bytes": 1430704
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (26 cells), execution counts, cell metadata and attachments (0 cells)."
+    ]
+  },
+  {
+    "path": "projects/John/Untitled2.ipynb",
+    "original_sha256": "cac3b21872d517366cb437de44244f29c730931be0d162b707203264c95775f4",
+    "prepared_sha256": "e2d9e55c881e27ad00dea824ea138731748e7cf708332ae435f0bbe571476117",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/Untitled2.ipynb",
+        "review_path": "projects/John/Untitled2.ipynb",
+        "sha256": "cac3b21872d517366cb437de44244f29c730931be0d162b707203264c95775f4",
+        "bytes": 622956
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (12 cells), execution counts, cell metadata and attachments (0 cells)."
+    ]
+  },
+  {
+    "path": "projects/John/Untitled3.ipynb",
+    "original_sha256": "c005802d4edc92b6cd64cf47a276670ca597c73173631cffa5600a769057b53e",
+    "prepared_sha256": "801b89bd435ce05d82d93329bcf6fa5f69689b6c69f277cc7f30d567032557eb",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/Untitled3.ipynb",
+        "review_path": "projects/John/Untitled3.ipynb",
+        "sha256": "c005802d4edc92b6cd64cf47a276670ca597c73173631cffa5600a769057b53e",
+        "bytes": 337325
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (4 cells), execution counts, cell metadata and attachments (0 cells)."
+    ]
+  },
+  {
+    "path": "projects/John/WinRNN.py",
+    "original_sha256": "b05ac824e2d51b69735dd56608ec70767f1549df6bafed23a60065e1b75180e5",
+    "prepared_sha256": "b05ac824e2d51b69735dd56608ec70767f1549df6bafed23a60065e1b75180e5",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/WinRNN.py",
+        "review_path": "projects/John/WinRNN.py",
+        "sha256": "b05ac824e2d51b69735dd56608ec70767f1549df6bafed23a60065e1b75180e5",
+        "bytes": 4077
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/git/src/neural.py",
+    "original_sha256": "04cdbc89453d3b1908aa164474dd9f7c3fd46fd62e9e3139b318d97f00bdaaef",
+    "prepared_sha256": "04cdbc89453d3b1908aa164474dd9f7c3fd46fd62e9e3139b318d97f00bdaaef",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/git/src/neural.py",
+        "review_path": "projects/John/git/src/neural.py",
+        "sha256": "04cdbc89453d3b1908aa164474dd9f7c3fd46fd62e9e3139b318d97f00bdaaef",
+        "bytes": 6923
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/git/src/svr.py",
+    "original_sha256": "9cf63ae1df4d6ae149ff91bdf7fb852f1deb151695f0eca3fb7b8db5abacceaf",
+    "prepared_sha256": "9cf63ae1df4d6ae149ff91bdf7fb852f1deb151695f0eca3fb7b8db5abacceaf",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/git/src/svr.py",
+        "review_path": "projects/John/git/src/svr.py",
+        "sha256": "9cf63ae1df4d6ae149ff91bdf7fb852f1deb151695f0eca3fb7b8db5abacceaf",
+        "bytes": 8904
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/main.py",
+    "original_sha256": "618f661216474556f7f26d4777f3b09fa693a5d68163ba4d6b4c41fd487f2ffc",
+    "prepared_sha256": "618f661216474556f7f26d4777f3b09fa693a5d68163ba4d6b4c41fd487f2ffc",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/main.py",
+        "review_path": "projects/John/main.py",
+        "sha256": "618f661216474556f7f26d4777f3b09fa693a5d68163ba4d6b4c41fd487f2ffc",
+        "bytes": 5897
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/notebook.ipynb",
+    "original_sha256": "07615dec2c0dd65d7f86e6dffb83922048ff8fc48fe4006e73d6fa3c78831d2f",
+    "prepared_sha256": "b0b3cc4bdd4ceb7bb34402e40bed8b3ae54032635bd69d01ec2aed123d3a38ec",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/notebook.ipynb",
+        "review_path": "projects/John/notebook.ipynb",
+        "sha256": "07615dec2c0dd65d7f86e6dffb83922048ff8fc48fe4006e73d6fa3c78831d2f",
+        "bytes": 4703418
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (63 cells), execution counts, cell metadata and attachments (0 cells)."
+    ]
+  },
+  {
+    "path": "projects/John/src/anomaly.py",
+    "original_sha256": "dd018b8b6a53315aaff15aedcc372006e52a56277d7ac63fe9a8c2f6de6bd73a",
+    "prepared_sha256": "dd018b8b6a53315aaff15aedcc372006e52a56277d7ac63fe9a8c2f6de6bd73a",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/src/anomaly.py",
+        "review_path": "projects/John/src/anomaly.py",
+        "sha256": "dd018b8b6a53315aaff15aedcc372006e52a56277d7ac63fe9a8c2f6de6bd73a",
+        "bytes": 2560
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/src/main.py",
+    "original_sha256": "bc1ce162eae9999af2fbd4ce3b414e36ed3db138043cc7b30dd90713f376f31a",
+    "prepared_sha256": "bc1ce162eae9999af2fbd4ce3b414e36ed3db138043cc7b30dd90713f376f31a",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/src/main.py",
+        "review_path": "projects/John/src/main.py",
+        "sha256": "bc1ce162eae9999af2fbd4ce3b414e36ed3db138043cc7b30dd90713f376f31a",
+        "bytes": 5669
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/src/monte-carlo.py",
+    "original_sha256": "909bd0933edb06d2afffd00b12f33d863c1c3cc56f50abb7a4cfb165876f1ff6",
+    "prepared_sha256": "909bd0933edb06d2afffd00b12f33d863c1c3cc56f50abb7a4cfb165876f1ff6",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/src/monte-carlo.py",
+        "review_path": "projects/John/src/monte-carlo.py",
+        "sha256": "909bd0933edb06d2afffd00b12f33d863c1c3cc56f50abb7a4cfb165876f1ff6",
+        "bytes": 4461
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/src/neural.py",
+    "original_sha256": "04cdbc89453d3b1908aa164474dd9f7c3fd46fd62e9e3139b318d97f00bdaaef",
+    "prepared_sha256": "04cdbc89453d3b1908aa164474dd9f7c3fd46fd62e9e3139b318d97f00bdaaef",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/src/neural.py",
+        "review_path": "projects/John/src/neural.py",
+        "sha256": "04cdbc89453d3b1908aa164474dd9f7c3fd46fd62e9e3139b318d97f00bdaaef",
+        "bytes": 6923
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/src/sea.py",
+    "original_sha256": "950e86efcd05f356e3977c39b5b5d3d8df17c62e03ae96fae9d019538c318b03",
+    "prepared_sha256": "950e86efcd05f356e3977c39b5b5d3d8df17c62e03ae96fae9d019538c318b03",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/src/sea.py",
+        "review_path": "projects/John/src/sea.py",
+        "sha256": "950e86efcd05f356e3977c39b5b5d3d8df17c62e03ae96fae9d019538c318b03",
+        "bytes": 4239
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/src/svr.py",
+    "original_sha256": "b6113367c8d58f4830a6729f25ba146e5f43a35613b75bcf18649a084c88f923",
+    "prepared_sha256": "b6113367c8d58f4830a6729f25ba146e5f43a35613b75bcf18649a084c88f923",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/src/svr.py",
+        "review_path": "projects/John/src/svr.py",
+        "sha256": "b6113367c8d58f4830a6729f25ba146e5f43a35613b75bcf18649a084c88f923",
+        "bytes": 8902
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/John/takens.py",
+    "original_sha256": "c699f4d0c00c8d2b8df2e5e4359f1ac93457c736bba5a84083bf6dcaaa225bed",
+    "prepared_sha256": "c699f4d0c00c8d2b8df2e5e4359f1ac93457c736bba5a84083bf6dcaaa225bed",
+    "sources": [
+      {
+        "source": "John-20261027T123718Z-1-001.zip",
+        "original_path": "John/takens.py",
+        "review_path": "projects/John/takens.py",
+        "sha256": "c699f4d0c00c8d2b8df2e5e4359f1ac93457c736bba5a84083bf6dcaaa225bed",
+        "bytes": 7271
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/forecast_makes-main/src/main.py",
+    "original_sha256": "9e42bc54d2efd4298058a260e07f71d6995979109749cf43558bf3e41ac4658f",
+    "prepared_sha256": "9e42bc54d2efd4298058a260e07f71d6995979109749cf43558bf3e41ac4658f",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "forecast_makes-main/src/main.py",
+        "review_path": "projects/forecast_makes-main/src/main.py",
+        "sha256": "9e42bc54d2efd4298058a260e07f71d6995979109749cf43558bf3e41ac4658f",
+        "bytes": 3346
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/forecast_makes-main/src/poetry.lock",
+    "original_sha256": "c2fae7a77ae370a12dd9096438099d8d5226e6b32eebd2f2e89dc6c214a4bfc6",
+    "prepared_sha256": "c2fae7a77ae370a12dd9096438099d8d5226e6b32eebd2f2e89dc6c214a4bfc6",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "forecast_makes-main/src/poetry.lock",
+        "review_path": "projects/forecast_makes-main/src/poetry.lock",
+        "sha256": "c2fae7a77ae370a12dd9096438099d8d5226e6b32eebd2f2e89dc6c214a4bfc6",
+        "bytes": 57997
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/forecast_makes-main/src/pyproject.toml",
+    "original_sha256": "cc1edf1c4c2305616f066087452eca589668a1537c946712557a45994c619be6",
+    "prepared_sha256": "cc1edf1c4c2305616f066087452eca589668a1537c946712557a45994c619be6",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "forecast_makes-main/src/pyproject.toml",
+        "review_path": "projects/forecast_makes-main/src/pyproject.toml",
+        "sha256": "cc1edf1c4c2305616f066087452eca589668a1537c946712557a45994c619be6",
+        "bytes": 348
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/forecast_makes-main/src/utils.py",
+    "original_sha256": "2c47c9aa98d50347b59e77351e7228aa42bda01ab85ffe0bee71dad32936a174",
+    "prepared_sha256": "2c47c9aa98d50347b59e77351e7228aa42bda01ab85ffe0bee71dad32936a174",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "forecast_makes-main/src/utils.py",
+        "review_path": "projects/forecast_makes-main/src/utils.py",
+        "sha256": "2c47c9aa98d50347b59e77351e7228aa42bda01ab85ffe0bee71dad32936a174",
+        "bytes": 6612
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/forecast_makes-main 2/src/main.py",
+    "original_sha256": "9e42bc54d2efd4298058a260e07f71d6995979109749cf43558bf3e41ac4658f",
+    "prepared_sha256": "9e42bc54d2efd4298058a260e07f71d6995979109749cf43558bf3e41ac4658f",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "forecast_makes-main 2/src/main.py",
+        "review_path": "projects/forecast_makes-main 2/src/main.py",
+        "sha256": "9e42bc54d2efd4298058a260e07f71d6995979109749cf43558bf3e41ac4658f",
+        "bytes": 3346
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/forecast_makes-main 2/src/poetry.lock",
+    "original_sha256": "c2fae7a77ae370a12dd9096438099d8d5226e6b32eebd2f2e89dc6c214a4bfc6",
+    "prepared_sha256": "c2fae7a77ae370a12dd9096438099d8d5226e6b32eebd2f2e89dc6c214a4bfc6",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "forecast_makes-main 2/src/poetry.lock",
+        "review_path": "projects/forecast_makes-main 2/src/poetry.lock",
+        "sha256": "c2fae7a77ae370a12dd9096438099d8d5226e6b32eebd2f2e89dc6c214a4bfc6",
+        "bytes": 57997
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/forecast_makes-main 2/src/pyproject.toml",
+    "original_sha256": "cc1edf1c4c2305616f066087452eca589668a1537c946712557a45994c619be6",
+    "prepared_sha256": "cc1edf1c4c2305616f066087452eca589668a1537c946712557a45994c619be6",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "forecast_makes-main 2/src/pyproject.toml",
+        "review_path": "projects/forecast_makes-main 2/src/pyproject.toml",
+        "sha256": "cc1edf1c4c2305616f066087452eca589668a1537c946712557a45994c619be6",
+        "bytes": 348
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/forecast_makes-main 2/src/utils.py",
+    "original_sha256": "2c47c9aa98d50347b59e77351e7228aa42bda01ab85ffe0bee71dad32936a174",
+    "prepared_sha256": "2c47c9aa98d50347b59e77351e7228aa42bda01ab85ffe0bee71dad32936a174",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "forecast_makes-main 2/src/utils.py",
+        "review_path": "projects/forecast_makes-main 2/src/utils.py",
+        "sha256": "2c47c9aa98d50347b59e77351e7228aa42bda01ab85ffe0bee71dad32936a174",
+        "bytes": 6612
+      }
+    ],
+    "changes": []
+  },
+  {
+    "path": "projects/todos_os_cadernos/notebook-checkpoints/Extrai_Pedidos_em_Aberto_20231113-checkpoint.ipynb",
+    "original_sha256": "89be0342e4bb1e970d77be2eb1815a5e77cdba3fb12ecd7a6bff7db99eecda67",
+    "prepared_sha256": "65945bed01e3cd7adf2a29081fb2334eafec83a3a1d8ae7bc12b65b6b779e79a",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121857Z-1-001.zip",
+        "original_path": "todos_os_cadernos/.ipynb_checkpoints/Extrai_Pedidos_em_Aberto_20231113-checkpoint.ipynb",
+        "review_path": "projects/todos_os_cadernos/.ipynb_checkpoints/Extrai_Pedidos_em_Aberto_20231113-checkpoint.ipynb",
+        "sha256": "89be0342e4bb1e970d77be2eb1815a5e77cdba3fb12ecd7a6bff7db99eecda67",
+        "bytes": 2304
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (0 cells), execution counts, cell metadata and attachments (0 cells).",
+      "Moved notebook checkpoints into a visible notebook-checkpoints folder."
+    ]
+  },
+  {
+    "path": "projects/todos_os_cadernos/notebook-checkpoints/Gera_arquivos_pSubir_Forecast_20231122F-checkpoint.ipynb",
+    "original_sha256": "0812d47e7c6465606cb0394d51784eac9965401d4bfa0ec3ea28db064f98c43c",
+    "prepared_sha256": "1df5f2dcb0015a2bd12d86af7595af9b310e38ce041a1920ab1776506cc087c2",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121857Z-1-001.zip",
+        "original_path": "todos_os_cadernos/.ipynb_checkpoints/Gera_arquivos_pSubir_Forecast_20231122F-checkpoint.ipynb",
+        "review_path": "projects/todos_os_cadernos/.ipynb_checkpoints/Gera_arquivos_pSubir_Forecast_20231122F-checkpoint.ipynb",
+        "sha256": "0812d47e7c6465606cb0394d51784eac9965401d4bfa0ec3ea28db064f98c43c",
+        "bytes": 234980
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (20 cells), execution counts, cell metadata and attachments (0 cells).",
+      "Moved notebook checkpoints into a visible notebook-checkpoints folder."
+    ]
+  },
+  {
+    "path": "projects/todos_os_cadernos/notebook-checkpoints/Mensal_ConcatenaERodaModelo_20231122F-checkpoint.ipynb",
+    "original_sha256": "4aeb1c5e9ce7efbdb0d9191d403439d4719b635dc65903fd9dde2feed1676db4",
+    "prepared_sha256": "857e26f1a3f1153dbe9a0c4b73c7e13a4b65f8b784a7096addc720be834dab77",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121857Z-1-001.zip",
+        "original_path": "todos_os_cadernos/.ipynb_checkpoints/Mensal_ConcatenaERodaModelo_20231122F-checkpoint.ipynb",
+        "review_path": "projects/todos_os_cadernos/.ipynb_checkpoints/Mensal_ConcatenaERodaModelo_20231122F-checkpoint.ipynb",
+        "sha256": "4aeb1c5e9ce7efbdb0d9191d403439d4719b635dc65903fd9dde2feed1676db4",
+        "bytes": 331500
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (1 cells), execution counts, cell metadata and attachments (0 cells).",
+      "Moved notebook checkpoints into a visible notebook-checkpoints folder."
+    ]
+  },
+  {
+    "path": "projects/todos_os_cadernos/notebook-checkpoints/Reformat_20231116-checkpoint.ipynb",
+    "original_sha256": "2c3fd6702607211036d2d294a687ee8c2e4fa2b754a8dffeafe8119b64365e25",
+    "prepared_sha256": "558f9132257ec7856ba8f634d14bd848e69937ea1b82a4d744ee369055000889",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121857Z-1-001.zip",
+        "original_path": "todos_os_cadernos/.ipynb_checkpoints/Reformat_20231116-checkpoint.ipynb",
+        "review_path": "projects/todos_os_cadernos/.ipynb_checkpoints/Reformat_20231116-checkpoint.ipynb",
+        "sha256": "2c3fd6702607211036d2d294a687ee8c2e4fa2b754a8dffeafe8119b64365e25",
+        "bytes": 188280
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (25 cells), execution counts, cell metadata and attachments (0 cells).",
+      "Moved notebook checkpoints into a visible notebook-checkpoints folder."
+    ]
+  },
+  {
+    "path": "projects/todos_os_cadernos/notebook-checkpoints/Untitled-checkpoint.ipynb",
+    "original_sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "prepared_sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121857Z-1-001.zip",
+        "original_path": "todos_os_cadernos/.ipynb_checkpoints/Untitled-checkpoint.ipynb",
+        "review_path": "projects/todos_os_cadernos/.ipynb_checkpoints/Untitled-checkpoint.ipynb",
+        "sha256": "4a62b68a633d79c53a6fd8893e8ea42dcf2b9a8a3e907b1b9861661f04f21517",
+        "bytes": 72
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (0 cells), execution counts, cell metadata and attachments (0 cells).",
+      "Moved notebook checkpoints into a visible notebook-checkpoints folder."
+    ]
+  },
+  {
+    "path": "projects/todos_os_cadernos/Atualizacoes_cria_Linha_20231122F.ipynb",
+    "original_sha256": "6798178ddf9d0f77c5acabd161a062537c0d2fa7b084c34289061e3e938d6adf",
+    "prepared_sha256": "3b1e669acbb777fea8085569135d6e7b8e84c9c849c0ec2a755cc52b1e485d6e",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121857Z-1-001.zip",
+        "original_path": "todos_os_cadernos/Atualizacoes_cria_Linha_20231122F.ipynb",
+        "review_path": "projects/todos_os_cadernos/Atualizacoes_cria_Linha_20231122F.ipynb",
+        "sha256": "6798178ddf9d0f77c5acabd161a062537c0d2fa7b084c34289061e3e938d6adf",
+        "bytes": 232971
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (1 cells), execution counts, cell metadata and attachments (0 cells)."
+    ]
+  },
+  {
+    "path": "projects/todos_os_cadernos/Extrai_Pedidos_em_Aberto_20231113.ipynb",
+    "original_sha256": "89be0342e4bb1e970d77be2eb1815a5e77cdba3fb12ecd7a6bff7db99eecda67",
+    "prepared_sha256": "65945bed01e3cd7adf2a29081fb2334eafec83a3a1d8ae7bc12b65b6b779e79a",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121857Z-1-001.zip",
+        "original_path": "todos_os_cadernos/Extrai_Pedidos_em_Aberto_20231113.ipynb",
+        "review_path": "projects/todos_os_cadernos/Extrai_Pedidos_em_Aberto_20231113.ipynb",
+        "sha256": "89be0342e4bb1e970d77be2eb1815a5e77cdba3fb12ecd7a6bff7db99eecda67",
+        "bytes": 2304
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (0 cells), execution counts, cell metadata and attachments (0 cells)."
+    ]
+  },
+  {
+    "path": "projects/todos_os_cadernos/Gera_arquivos_pSubir_Forecast_20231122F.ipynb",
+    "original_sha256": "0812d47e7c6465606cb0394d51784eac9965401d4bfa0ec3ea28db064f98c43c",
+    "prepared_sha256": "1df5f2dcb0015a2bd12d86af7595af9b310e38ce041a1920ab1776506cc087c2",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121857Z-1-001.zip",
+        "original_path": "todos_os_cadernos/Gera_arquivos_pSubir_Forecast_20231122F.ipynb",
+        "review_path": "projects/todos_os_cadernos/Gera_arquivos_pSubir_Forecast_20231122F.ipynb",
+        "sha256": "0812d47e7c6465606cb0394d51784eac9965401d4bfa0ec3ea28db064f98c43c",
+        "bytes": 234980
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (20 cells), execution counts, cell metadata and attachments (0 cells)."
+    ]
+  },
+  {
+    "path": "projects/todos_os_cadernos/Mensal_ConcatenaERodaModelo_20231122F.ipynb",
+    "original_sha256": "4aeb1c5e9ce7efbdb0d9191d403439d4719b635dc65903fd9dde2feed1676db4",
+    "prepared_sha256": "857e26f1a3f1153dbe9a0c4b73c7e13a4b65f8b784a7096addc720be834dab77",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121857Z-1-001.zip",
+        "original_path": "todos_os_cadernos/Mensal_ConcatenaERodaModelo_20231122F.ipynb",
+        "review_path": "projects/todos_os_cadernos/Mensal_ConcatenaERodaModelo_20231122F.ipynb",
+        "sha256": "4aeb1c5e9ce7efbdb0d9191d403439d4719b635dc65903fd9dde2feed1676db4",
+        "bytes": 331500
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (1 cells), execution counts, cell metadata and attachments (0 cells)."
+    ]
+  },
+  {
+    "path": "projects/todos_os_cadernos/Pipeline_Azeitada_20231122F.ipynb",
+    "original_sha256": "c1ed4189814711daacfaaa343919fa61f534c210d0490ea9fd196e88044c7c2e",
+    "prepared_sha256": "58a42b81db4148ef744b3f056091cb671929a061031f7082c6848efad138cd31",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121857Z-1-001.zip",
+        "original_path": "todos_os_cadernos/Pipeline_Azeitada_20231122F.ipynb",
+        "review_path": "projects/todos_os_cadernos/Pipeline_Azeitada_20231122F.ipynb",
+        "sha256": "c1ed4189814711daacfaaa343919fa61f534c210d0490ea9fd196e88044c7c2e",
+        "bytes": 817054
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (61 cells), execution counts, cell metadata and attachments (0 cells)."
+    ]
+  },
+  {
+    "path": "projects/todos_os_cadernos/Reformat_20231116.ipynb",
+    "original_sha256": "2c3fd6702607211036d2d294a687ee8c2e4fa2b754a8dffeafe8119b64365e25",
+    "prepared_sha256": "558f9132257ec7856ba8f634d14bd848e69937ea1b82a4d744ee369055000889",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121857Z-1-001.zip",
+        "original_path": "todos_os_cadernos/Reformat_20231116.ipynb",
+        "review_path": "projects/todos_os_cadernos/Reformat_20231116.ipynb",
+        "sha256": "2c3fd6702607211036d2d294a687ee8c2e4fa2b754a8dffeafe8119b64365e25",
+        "bytes": 188280
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (25 cells), execution counts, cell metadata and attachments (0 cells)."
+    ]
+  },
+  {
+    "path": "projects/todos_os_cadernos/Untitled.ipynb",
+    "original_sha256": "5a46c416a77658b8770c74685e679a1ecb0271654b1acb196326588fc5944e6e",
+    "prepared_sha256": "61b1c5813b494c725a1562fc85bdc87e8ac00a6e894a1f032a73941b37ae3ab4",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121857Z-1-001.zip",
+        "original_path": "todos_os_cadernos/Untitled.ipynb",
+        "review_path": "projects/todos_os_cadernos/Untitled.ipynb",
+        "sha256": "5a46c416a77658b8770c74685e679a1ecb0271654b1acb196326588fc5944e6e",
+        "bytes": 13543
+      }
+    ],
+    "changes": [
+      "Cleared notebook outputs (6 cells), execution counts, cell metadata and attachments (0 cells)."
+    ]
+  },
+  {
+    "path": "projects/todos_os_cadernos/notebook-checkpoints/Gera_arquivos_pSubir_Forecast_20231122F-checkpoint.ipynb",
+    "original_sha256": "0812d47e7c6465606cb0394d51784eac9965401d4bfa0ec3ea28db064f98c43c",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Gera_arquivos_pSubir_Forecast_20231122F-checkpoint.ipynb",
+        "review_path": "standalone/drive-download-20261027T121622Z-1-001/Gera_arquivos_pSubir_Forecast_20231122F-checkpoint.ipynb",
+        "sha256": "0812d47e7c6465606cb0394d51784eac9965401d4bfa0ec3ea28db064f98c43c",
+        "bytes": 234980
+      }
+    ],
+    "duplicate_standalone_download": true
+  },
+  {
+    "path": "projects/todos_os_cadernos/notebook-checkpoints/Gera_arquivos_pSubir_Forecast_20231122F-checkpoint.ipynb",
+    "original_sha256": "0812d47e7c6465606cb0394d51784eac9965401d4bfa0ec3ea28db064f98c43c",
+    "sources": [
+      {
+        "source": "drive-download-20261027T121622Z-1-001.zip",
+        "original_path": "Gera_arquivos_pSubir_Forecast_20231122F.ipynb",
+        "review_path": "standalone/drive-download-20261027T121622Z-1-001/Gera_arquivos_pSubir_Forecast_20231122F.ipynb",
+        "sha256": "0812d47e7c6465606cb0394d51784eac9965401d4bfa0ec3ea28db064f98c43c",
+        "bytes": 234980
+      }
+    ],
+    "duplicate_standalone_download": true
+  },
+  {
+    "path": "projects/John/LSTM.py",
+    "original_sha256": "04cdbc89453d3b1908aa164474dd9f7c3fd46fd62e9e3139b318d97f00bdaaef",
+    "sources": [
+      {
+        "source": "drive-download-20261027T122513Z-1-001.zip",
+        "original_path": "neural(1).py",
+        "review_path": "standalone/drive-download-20261027T122513Z-1-001/neural(1).py",
+        "sha256": "04cdbc89453d3b1908aa164474dd9f7c3fd46fd62e9e3139b318d97f00bdaaef",
+        "bytes": 6923
+      }
+    ],
+    "duplicate_standalone_download": true
+  },
+  {
+    "path": "projects/John/LSTM.py",
+    "original_sha256": "04cdbc89453d3b1908aa164474dd9f7c3fd46fd62e9e3139b318d97f00bdaaef",
+    "sources": [
+      {
+        "source": "drive-download-20261027T122513Z-1-001.zip",
+        "original_path": "neural.py",
+        "review_path": "standalone/drive-download-20261027T122513Z-1-001/neural.py",
+        "sha256": "04cdbc89453d3b1908aa164474dd9f7c3fd46fd62e9e3139b318d97f00bdaaef",
+        "bytes": 6923
+      }
+    ],
+    "duplicate_standalone_download": true
+  },
+  {
+    "path": "projects/Forecasting_v1/machine_learning/recurrent_neural_networks.py",
+    "original_sha256": "4a01baa0a31781955b254a486eb95b311cefd901ef924774ae0ddae9a97582af",
+    "sources": [
+      {
+        "source": "drive-download-20261027T122513Z-1-001.zip",
+        "original_path": "recurrent_neural_networks.py",
+        "review_path": "standalone/drive-download-20261027T122513Z-1-001/recurrent_neural_networks.py",
+        "sha256": "4a01baa0a31781955b254a486eb95b311cefd901ef924774ae0ddae9a97582af",
+        "bytes": 4202
+      }
+    ],
+    "duplicate_standalone_download": true
+  }
+]
